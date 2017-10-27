@@ -1,0 +1,136 @@
+{
+  "settings": {
+    "name": "specialoffer.html",
+    "currentPage": "specialoffer.divineharvest.com",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 5,
+    "versionPublish": "4.4.0",
+    "mcShopcart": {
+      "email": "praiseGod533@comcast.net"
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/mediacrest-logo-small-final-128x75.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "specialoffer.divineharvest.com": {
+      "settings": {
+        "main": true,
+        "title": "Get your FREE book here!",
+        "meta_descr": "Get your FREE book here!",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/landing-page-art1-1400x933.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/landing-page-art2-1400x935.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://youtu.be/fzTAlByO0Gs",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Get your FREE book here!*<br>",
+          "meta": "<i>*only pay $4.95 shipping and handling</i><br>Claim Your FREE BOOK Now!&nbsp;Limited Copies&nbsp;$14 value<br>",
+          "text": "<p>The all in one, prayer journal, sermon notes and adult coloring book. One book three ways to get closer to God! Take and keep sermon notes while you color and let the Word of God sink in. What a great way to count your blessings. Each beautifully illustrated coloring page contains a bible verse, so you can embed the Word of God deeper into your soul.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=4.95&amp;item_name=Shipping+and+handling%2C+Remembering+the+Word+of+God&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"> Claim Your FREE BOOK Now!</a>",
+          "_styles": {
+            "small": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mediacrest-logo-2017-fin-265x72.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Portland, Oregon<br>97229",
+          "text2": "<strong>Contacts</strong><br>\nEmail: MediaCrest@comcast.net<br>Phone: (503) 866-7419<br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"http://www.divineharvest.com/\" target=\"_blank\">DivineHarvest.com</a><a href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.directresponsevideos.com/\" target=\"_blank\">DirectResponseVideos.com</a></li></ul>"
+        }
+      ]
+    }
+  }
+}
